@@ -13,6 +13,7 @@ Deployed on Vercel
 🖼 Screenshots
 
 🖥 Desktop View
+![Alt text](screenshots\desktop view and task managemnt interface.png)
 
 📱 Mobile View
 

@@ -16,10 +16,11 @@ Deployed on Vercel
 ![Desktop View](/screenshots/desktop%20view%20and%20task%20managemnt%20interface.png)
 
 📱 Mobile View
+![Mobile View](/screenshots/mobile%20view.png)
 
 ➕ Create List Dialog
+![Create List Dialog](/screenshots/create%20new%20list%20dialog.png)
 
-📝 Task Management Interface
 
 📌 Features
 List Management

@@ -107,7 +107,9 @@ Each list maintains its own isolated tasks
 
 Cascade deletion ensures data consistency
 
-📂 Project Structure
+### Project Structure
+
+```
 src/
 ├── app/
 ├── domains/
@@ -116,6 +118,7 @@ src/
 ├── services/
 ├── ui/
 ├── utils/
+```
 
 The structure was intentionally designed to scale.
 

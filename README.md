@@ -138,16 +138,6 @@ Real-world development workflow
 
 Documentation-driven learning
 
-## 🧪 Future Improvements
-
-Drag & drop task reordering
-
-Due dates and reminders
-
-Cloud sync version
-
-PWA support
-
 👤 Author
 
 Abdul-Hameed Zubair
